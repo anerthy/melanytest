@@ -5,7 +5,7 @@ Despues de crear el repositorio ir a la **terminal** o **git bash** y seguir los
     `git init`
 
 2. Establece un enlace remoto llamado "origin" a un repositorio en GitHub.
-    `git remote add origin https://github.com/anerthy/melanytest.git`
+    `git remote add origin https://github.com/anerthy/subirproyecto.git`
 
 3. Agrega todos los archivos modificados al área de preparación (staging area).
     `git add .`
